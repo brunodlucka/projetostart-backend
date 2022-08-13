@@ -17,7 +17,7 @@ body{
 #medica{
     width:350px;
     display: inline-block;
-    margin-left: 450px;
+    margin-left: 900px;
     
     
 }
@@ -65,7 +65,7 @@ body{
     padding: 1em.82em 1em;
     text-decoration: none;
     color: #FFF;
-    background: rgb(12, 180, 48);
+    background: rgb(50,205,50);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     border-radius: 0.5em;
     box-shadow: 1px 1px 0 4px rgb(11, 12, 12);
@@ -80,7 +80,22 @@ body{
     padding: 1em.82em 1em;
     text-decoration: none;
     color: #FFF;
-    background: rgb(224, 210, 6);
+    background: rgb(255,215,0);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    border-radius: 0.8em;
+    box-shadow: 1px 1px 0 4px rgb(11, 12, 12);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    font-size: large;
+  }
+  
+   .botao3 {
+    display: inline-block;
+    margin: 4.5em;
+    border: 10;
+    padding: 1em.82em 1em;
+    text-decoration: none;
+    color: #FFF;
+    background: rgb(220,20,60);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     border-radius: 0.8em;
     box-shadow: 1px 1px 0 4px rgb(11, 12, 12);

@@ -27,7 +27,7 @@ body{
 
 .logo-title {
     width: 100%;
-    height: 22vh;
+    height: 32vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -116,4 +116,19 @@ body{
 
 .text-sobre > span {
     margin: 10px 0px;
+}
+
+.botaosobre {
+	display: inline-block;
+    margin: 3.5em;
+    border: 10;
+    padding: 1em.82em 1em;
+    text-decoration: none;
+    color: #FFF;
+    background: rgb(135,206,250);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    border-radius: 0.5em;
+    box-shadow: 1px 1px 0 4px rgb(11, 12, 12);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    font-size: large;
 }

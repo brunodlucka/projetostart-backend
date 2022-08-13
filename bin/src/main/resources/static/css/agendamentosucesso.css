@@ -35,3 +35,15 @@ body{
 
 }
 
+.botaoas {
+    border: 300;
+    padding: 1em.82em 1em;
+    text-decoration: none;
+    color: #FFF;
+    background: rgb(135,206,250);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    border-radius: 0.5em;
+    box-shadow: 1px 1px 0 4px rgb(11, 12, 12);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    font-size: large;
+}
